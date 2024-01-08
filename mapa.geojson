@@ -102,20 +102,6 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "https://www.openstreetmap.org/user/dricardo023",
-                "name": "dricardo023"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -8.896384,
-                    38.521673
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "description": "https://www.openstreetmap.org/user/FasterTracker",
                 "name": "João [FasterTracker]"
             },
@@ -138,20 +124,6 @@
                 "coordinates": [
                     -8.606919,
                     41.129151
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Joseph_Moon",
-                "description": "https://www.openstreetmap.org/user/Joseph_Moon"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -7.418117,
-                    37.193416
                 ]
             }
         },
